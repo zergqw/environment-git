@@ -1,0 +1,15 @@
+{
+  "name": "zerg",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "no"
+  },
+  "author": "zerg",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
